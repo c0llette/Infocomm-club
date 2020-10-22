@@ -1,4 +1,4 @@
-# Infocomm-club
+# infocomm club
 what infocomm club members do 
 - we attended a 56-hour intel ai for youth course 
 - we also participated in splash awards 
