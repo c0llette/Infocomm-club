@@ -1,5 +1,3 @@
-# infocomm club
-what infocomm club members do 
-- we attended a 56-hour intel ai for youth course 
-- we also participated in splash awards 
-- at the start of the year, we also took part in the uk perse coding challenge
+# CCA matching personality test
+A more efficient way to choose your CCA by narrowing down your choices based on your skills, talents and interests. :D
+(my previous README.md is in the infocomm club file)
